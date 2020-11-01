@@ -1,5 +1,5 @@
 ### Hello 👋
- <br>
+Discord: iiLeafy#2180 <br>
 ![meme](https://komarev.com/ghpvc/?username=iiLeafy&style=flat-square&color=blueviolet) <br>
 [![stats](https://github-readme-stats.vercel.app/api?username=iiLeafy&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
 
