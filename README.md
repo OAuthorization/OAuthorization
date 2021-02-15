@@ -1,4 +1,4 @@
-![banner](https://github.com/OAuthorization/OAuthorization/blob/master/OAuth.png?raw=true))
+![banner](https://github.com/OAuthorization/OAuthorization/blob/master/OAuth.png?raw=true)
 ### Hello 👋
 Discord: OAuth#0001 <br>
 ![meme](https://komarev.com/ghpvc/?username=OAuthorization&style=flat-square&color=blueviolet) <br>
