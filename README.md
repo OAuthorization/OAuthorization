@@ -1,6 +1,6 @@
-![banner](https://github.com/OAuthorization/OAuthorization/blob/master/OAuth.png?raw=true)
+![banner](https://raw.githubusercontent.com/OAuthorization/OAuthorization/master/yeah%20main%20be%20like.png?raw=true)
 ### Hello 👋
-Discord: OAuth#0001 <br>
+Discord: imagine#0403 <br>
 ![meme](https://komarev.com/ghpvc/?username=OAuthorization&style=flat-square&color=blueviolet) <br>
 ![what](https://github-readme-stats.vercel.app/api/wakatime?username=OAuthorization&theme=highcontrast) <br>
 [![stats](https://github-readme-stats.vercel.app/api?username=OAuthorization&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) <br>
