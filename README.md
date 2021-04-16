@@ -12,3 +12,6 @@ Telegram: https://t.me/imagine_nn or @imagine_nn
 Skills: C# / Python / A small bit of Node.JS  
 
 - 🤖 I’m currently working on a self-bot for discord.  
+
+### Github Statistics
+![meme](https://komarev.com/ghpvc/?username=OAuthorization&style=flat-square&color=blueviolet) <br> [![stats](https://github-readme-stats.vercel.app/api?username=stop-bark&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
