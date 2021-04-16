@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/stop-bark/stop-bark/master/banner.png)
+![banner](https://raw.githubusercontent.com/stop-bark/stop-bark/master/banner2.png)
 
 ### Ello, I'm imagine.
 
