@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/stop-bark/stop-bark/master/banner.png)
 
-### Hi there 👋, I'm imagine.
+### Ello, I'm imagine.
 
 I'm 13 years old, I live in Latvia, which is in Northern Europe, and I like to learn how to code and make different type of stuff.  
 
