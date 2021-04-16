@@ -9,4 +9,4 @@ Telegram: @imagine_nn
 
 Skills: C# / Python / A small bit of Node.JS  
 
-- 🔭 I’m currently working on a self-bot for discord.  
+- 🤖 I’m currently working on a self-bot for discord.  
