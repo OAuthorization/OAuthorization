@@ -14,4 +14,4 @@ Skills: C# / Python / A small bit of Node.JS
 - 🤖 I’m currently working on a self-bot for discord.  
 
 ### Github Statistics
-![meme](https://komarev.com/ghpvc/?username=OAuthorization&style=flat-square&color=blueviolet) <br> [![stats](https://github-readme-stats.vercel.app/api?username=stop-bark&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) ![most used ig](https://github-readme-stats.vercel.app/api/top-langs/?username=stop-bark&layout=compact&theme=highcontrast&show_icons=true&langs_count=10)
+![meme](https://komarev.com/ghpvc/?username=OAuthorization&style=flat-square&color=blueviolet) <br> [![stats](https://github-readme-stats.vercel.app/api?username=stop-bark&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![most used ig](https://github-readme-stats.vercel.app/api/top-langs/?username=stop-bark&layout=compact&theme=synthwave&show_icons=true&langs_count=10)]((https://github.com/anuraghazra/github-readme-stats))
