@@ -11,7 +11,7 @@ Telegram: https://t.me/imagine_nn or @imagine_nn
 
 Skills: C# / Python / A small bit of Node.JS  
 
-- 🤖 I’m currently working on a self-bot for discord.  
+- 🤖 I’m currently working on a bot for discord. (Node.JS)  
 
 ### Github Statistics
 ![Profile views](https://gpvc.arturio.dev/stop-bark) <br> [![stats](https://github-readme-stats.vercel.app/api?username=stop-bark&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![most used ig](https://github-readme-stats.vercel.app/api/top-langs/?username=stop-bark&layout=compact&theme=synthwave&show_icons=true&langs_count=10)]((https://github.com/anuraghazra/github-readme-stats))
