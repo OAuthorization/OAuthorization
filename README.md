@@ -11,7 +11,7 @@ Telegram: https://t.me/imagine_nn or @imagine_nn
 
 Skills: C# / Python / A small bit of Node.JS  
 
-- 🤖 I’m currently working on a bot called Fayth for discord. (Node.JS)  
+- I’m currently working on nothing, lol.
 
 ### Discord Status
 [![DiscordStatus](https://discord.c99.nl/widget/theme-4/831059031262625854.png)](https://discord.c99.nl/)
