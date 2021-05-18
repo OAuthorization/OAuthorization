@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/stop-bark/stop-bark/master/banner2.png)
+![banner](https://raw.githubusercontent.com/stop-bark/stop-bark/master/banner4.png)
 
 ### Ello, I'm Laaru (not my real name).
 
