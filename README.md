@@ -6,7 +6,7 @@ I'm 13 years old, I live in Latvia, which is in Northern Europe, and I like to l
 
 You can contact me on discord and telegram  
 
-Discord: imagine#0403 (Currently disabled, contact me at imagine#1714)  
+Discord: imagine#0403 (Currently disabled, contact me at Laaru#1714)  
 Telegram: https://t.me/laar-u or @laar-u  
 
 Skills: C# / Python / A small bit of Node.JS  
