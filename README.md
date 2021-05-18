@@ -1,13 +1,13 @@
 ![banner](https://raw.githubusercontent.com/stop-bark/stop-bark/master/banner2.png)
 
-### Ello, I'm imagine.
+### Ello, I'm Laaru (not my real name).
 
 I'm 13 years old, I live in Latvia, which is in Northern Europe, and I like to learn how to code and make different type of stuff.  
 
 You can contact me on discord and telegram  
 
 Discord: imagine#0403 (Currently disabled, contact me at imagine#1714)  
-Telegram: https://t.me/imagine_nn or @imagine_nn  
+Telegram: https://t.me/laar-u or @laar-u  
 
 Skills: C# / Python / A small bit of Node.JS  
 
