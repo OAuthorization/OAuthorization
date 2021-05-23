@@ -11,7 +11,7 @@ Telegram: https://t.me/laar-u or @laar-u
 
 Skills: C# / Python / A small bit of Node.JS  
 
-- I’m currently working on nothing, lol.
+- I’m currently working on nothing, might re-write token fucker and server raider though.
 
 ### Discord Status
 [![DiscordStatus](https://discord.c99.nl/widget/theme-4/739824148267925565.png)](https://discord.c99.nl/)
