@@ -2,8 +2,6 @@
 
 ### Ello, I'm Laaru (not my real name).
 
-I'm 13 years old, I live in Latvia, which is in Northern Europe, and I like to learn how to code and make different type of stuff.  
-
 You can contact me on discord and telegram  
 
 Discord: imagine#0403 (Currently disabled, contact me at Laaru#1714)  
