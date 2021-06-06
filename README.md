@@ -4,7 +4,7 @@
 
 You can contact me on discord and telegram  
 
-Discord: imagine#0403 (Currently disabled, contact me at Laaru#1714)  
+Discord: Laaru#1488  
 Telegram: https://t.me/laar-u or @laar-u  
 
 Skills: C# / Python / A small bit of Node.JS  
