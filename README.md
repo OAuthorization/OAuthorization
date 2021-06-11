@@ -6,6 +6,7 @@ You can contact me on discord and telegram
 
 Discord: Laaru#1488  
 Telegram: https://t.me/laar-u or @laar-u  
+Join my discord server by clicking [here](https://discord.gg/invite/Zfuqfu9m3)
 
 Skills: C# / Python / A small bit of Node.JS  
 
