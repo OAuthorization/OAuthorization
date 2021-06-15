@@ -1,10 +1,12 @@
 ![banner](https://raw.githubusercontent.com/stop-bark/stop-bark/master/banner4.png)
+# notice: banner discord is outdated, read below for my current one
+
 
 ### Ello, I'm Laaru (not my real name).
 
 You can contact me on discord and telegram  
 
-Discord: Laaru#1488  
+Discord: Laaru#0001  
 Telegram: https://t.me/laar-u or @laar-u  
 Join my discord server by clicking [here](https://discord.gg/invite/monk) or on this image ![discord](https://discord.com/api/guilds/848458923136122901/embed.png)
 
