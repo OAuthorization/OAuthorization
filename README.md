@@ -1,3 +1,4 @@
+
 ![banner](https://raw.githubusercontent.com/stop-bark/stop-bark/master/banner4.png)
 # notice: banner discord is outdated, read below for my current one
 
@@ -19,3 +20,10 @@ Skills: C# / Python / A small bit of Node.JS
 
 ### Github Statistics
 ![Profile views](https://komarev.com/ghpvc/?username=Laar-u) <br> [![stats](https://github-readme-stats.vercel.app/api?username=Laar-u&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![most used ig](https://github-readme-stats.vercel.app/api/top-langs/?username=Laar-u&layout=compact&theme=synthwave&show_icons=true&langs_count=10)]((https://github.com/anuraghazra/github-readme-stats))
+
+### 3 Random strings (length: 64, these update every hour)
+uvEKoIGyybrzpSzxzlbgBFYFoEwDeXgIxFYRouufkoQhBKciRAGIVoThlcZtOrxR
+XUumUZitgZpeytqToTABuKEmktdwMbjEcMjlHkOWlTYJcbpHuxqhkWGvDVTbmBZu
+mnCUKESkuQtBWTmLTfWMJhMxXQyNihrTsnDcDdrHGpoddCyjYHAUvkCvVavnxHEq
+
+### Repository last updated at: 2021-06-20 21:00:02.262727
