@@ -7,7 +7,7 @@
 
 You can contact me on discord and telegram  
 
-Discord: Laaru#0001  
+Discord: refer to the discord status tab, its always up-to date  
 Telegram: https://t.me/laar-u or @laar-u  
 Join my discord server by clicking [here](https://discord.gg/invite/monk) or on this image ![discord](https://discord.com/api/guilds/848458923136122901/embed.png)
 
